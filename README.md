@@ -41,6 +41,7 @@ These are the available plugins in this repository.
 | [android_alarm_manager](./packages/android_alarm_manager/) | [![pub package](https://img.shields.io/pub/v/android_alarm_manager.svg)](https://pub.dev/packages/android_alarm_manager) |
 | [android_intent](./packages/android_intent/) | [![pub package](https://img.shields.io/pub/v/android_intent.svg)](https://pub.dev/packages/android_intent) |
 | [battery](./packages/battery/) | [![pub package](https://img.shields.io/pub/v/battery.svg)](https://pub.dev/packages/battery) |
+| [barcode_scanner](./packages/barcode_scanner/) | [![pub package](https://img.shields.io/pub/v/barcode_scanner.svg)](https://pub.dev/packages/barcode_scanner) |
 | [camera](./packages/camera/) | [![pub package](https://img.shields.io/pub/v/camera.svg)](https://pub.dev/packages/camera) |
 | [connectivity](./packages/connectivity/) | [![pub package](https://img.shields.io/pub/v/connectivity.svg)](https://pub.dev/packages/connectivity) |
 | [device_info](./packages/device_info/) | [![pub package](https://img.shields.io/pub/v/device_info.svg)](https://pub.dev/packages/device_info) |
